@@ -1,0 +1,36 @@
+# PyEnv
+.python-version
+
+# Virtual environment
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode
+
+# Prettier
+.prettierignore
+
+# Byte-compiled / optimized / DLL files
+**/__pycache__/
+**/*.py[cod]
+
+
+# Docker
+docker-compose.yml
+Dockerfile
+.docker
+.dockerignore
+
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# Helm
+helm/
+
+# Deployment
+deploy.sh
